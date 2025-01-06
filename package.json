@@ -1,0 +1,27 @@
+{
+  "name": "front-end-doc",
+  "version": "1.0.0",
+  "description": "前端小记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanxf/front-end-doc.git"
+  },
+  "keywords": [
+    "前端",
+    "笔记",
+    "js",
+    "ts",
+    "vue",
+    "react"
+  ],
+  "author": "Ruan_xf@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanxf/front-end-doc/issues"
+  },
+  "homepage": "https://github.com/ruanxf/front-end-doc#readme"
+}
